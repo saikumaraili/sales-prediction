@@ -1,0 +1,12 @@
+* item_identifier: unique identification number for particular items
+* item_weight: weight of the items
+* item_fat_content: fat content in the item such as low fat and regular fat
+* item_visibility: visibility of the product in the outlet
+* item_type: category of the product such as Dairy, Soft Drink, Household, etc
+* item_mrp: Maximum retail price of the product
+* outlet_identifier: unique identification number for particular outlets	
+* outlet_establishment_year: the year in which the outlet was established
+* outlet_size: the size of the outlet, such as small, medium, and high
+* outlet_location_type: location type in which the outlet is located, such as Tier 1, 2 and 3
+* outlet_type: type of the outlet such as grocery store or supermarket
+* item_outlet_sales: overall sales of the product in the outlet
